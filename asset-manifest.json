@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.61210f47.css",
+    "main.js": "./static/js/main.73bbc6c7.js",
+    "static/media/gremio-1903.webp": "./static/media/gremio-1903.46a52113cff9d253f08b.webp",
+    "static/media/gremio-2005.webp": "./static/media/gremio-2005.80a7921bbb544ec41c5c.webp",
+    "static/media/gremio-1997.webp": "./static/media/gremio-1997.5fe992f5fd8538d1a4ec.webp",
+    "static/media/gremio-2003.webp": "./static/media/gremio-2003.bbce479f7a73dd8ef297.webp",
+    "static/media/gremio-2001.webp": "./static/media/gremio-2001.0a525d8c75df412348b5.webp",
+    "static/media/gremio-2017.webp": "./static/media/gremio-2017.29c32e5e57caec982f6d.webp",
+    "static/media/gremio-1996.webp": "./static/media/gremio-1996.1c98f76ae0987e3e17dd.webp",
+    "static/media/gremio-1990.webp": "./static/media/gremio-1990.85624128d1ed42e38eef.webp",
+    "static/media/gremio-2018.webp": "./static/media/gremio-2018.f20d792dc980ce4f183f.webp",
+    "static/media/gremio-1995.webp": "./static/media/gremio-1995.e0f217603198abb130c3.webp",
+    "static/media/gremio-2016.webp": "./static/media/gremio-2016.dfcc395373e1cb0b6dc6.webp",
+    "static/media/gremio-1981.webp": "./static/media/gremio-1981.5d3483cbd83b7740714b.webp",
+    "static/media/gremio-1994.webp": "./static/media/gremio-1994.eac48f2b49d73442fa00.webp",
+    "static/media/gremio-1983.webp": "./static/media/gremio-1983.caab144c861162b25a0b.webp",
+    "static/media/gremio-1989.webp": "./static/media/gremio-1989.ca50ff2e70a6753f34cf.webp",
+    "index.html": "./index.html",
+    "main.61210f47.css.map": "./static/css/main.61210f47.css.map",
+    "main.73bbc6c7.js.map": "./static/js/main.73bbc6c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61210f47.css",
+    "static/js/main.73bbc6c7.js"
+  ]
+}
